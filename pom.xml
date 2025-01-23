@@ -164,7 +164,7 @@
         <dependency>
             <groupId>com.github.PikaMug</groupId>
             <artifactId>LocaleLib</artifactId>
-            <version>3.9</version>
+            <version>4.1.0</version>
         </dependency>
         <dependency>
             <groupId>org.black_ixx</groupId>
