@@ -112,7 +112,6 @@ public final class StartPage extends InGameUI
                 meta.setDisplayName(name);
                 meta.setLore(tempList);
                 meta.addItemFlags(ItemFlag.HIDE_ATTRIBUTES);
-                meta.addItemFlags(ItemFlag.HIDE_POTION_EFFECTS);
                 btn.setItemMeta(meta);
                 inventory.setItem(idx, btn);
 

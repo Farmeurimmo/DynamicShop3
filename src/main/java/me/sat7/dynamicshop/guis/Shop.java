@@ -357,7 +357,6 @@ public final class Shop extends InGameUI
                     meta.setDisplayName(" ");
                     meta.addItemFlags(ItemFlag.HIDE_ATTRIBUTES);
                     meta.addItemFlags(ItemFlag.HIDE_ENCHANTS);
-                    meta.addItemFlags(ItemFlag.HIDE_POTION_EFFECTS);
                 }
 
                 meta.setLore(new ArrayList<>(Arrays.asList(lore.split("\n"))));
